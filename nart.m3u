@@ -1,9 +1,9 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="FILIPINO Channel" tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png" ,ANC (1080p) [Not 24/7]
+#EXTINF:-1 group-title="FILIPINO Channel" tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/odwRbRk.png" ,ANC
 https://ythls.armelin.one/channel/UCE2606prvXQc_noEqKxVJXA.m3u8
 #EXTINF:-1 group-title="FILIPINO Channel" tvg-id="AngDatingDaan.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Ang_Dating_Daan_New_Logo.png" ,Ang Dating Daan (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
-#EXTINF:-1 group-title="FILIPINO Channel" tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" ,Angel TV Far East (720p)
+#EXTINF:-1 group-title="FILIPINO Channel" tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" ,Angel TV Far East
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 group-title="FILIPINO Channel" tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" ,CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
